@@ -11,3 +11,6 @@ Timeline Page — all interactions sorted newest first, filter dropdown by type 
 Stats Page — donut pie chart via Recharts showing Call/Text/Video breakdown
 Footer — dark green, social icons, copyright + legal links
 404 Page — friendly not-found page
+Toast notifications — slide-in from bottom-right on check-in actions
+Responsive — works on mobile, tablet, desktop
+Poppins font throughout
