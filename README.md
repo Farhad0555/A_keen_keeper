@@ -9,3 +9,5 @@ Friend Detail Page — two-column layout with profile card, 3 action buttons, st
 
 Timeline Page — all interactions sorted newest first, filter dropdown by type (All/Call/Text/Video/Meetup)
 Stats Page — donut pie chart via Recharts showing Call/Text/Video breakdown
+Footer — dark green, social icons, copyright + legal links
+404 Page — friendly not-found page
