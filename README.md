@@ -13,4 +13,3 @@ Footer — dark green, social icons, copyright + legal links
 404 Page — friendly not-found page
 Toast notifications — slide-in from bottom-right on check-in actions
 Responsive — works on mobile, tablet, desktop
-Poppins font throughout
